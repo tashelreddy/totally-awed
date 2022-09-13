@@ -1,3 +1,8 @@
-alert("Full Page Coming Soon");
+function runMe(){
+    alert("Full Page Coming Soon");
+}
+
+setTimeout(runMe, 3000);
+
 
 
